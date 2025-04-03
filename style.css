@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+body{
+  font-family: "Poppins", sans-serif;
+  background-color: #FAF4F2;
+}
+.navbar{
+  background-color: #FF7315;
+}
+.navbar-toggler-icon {
+  background-image: url('image/gg_menu-left.png'); /* Replace with your PNG file */
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 30px;  /* Adjust size */
+  height: 30px; /* Adjust size */
+}
+.navbar-toggler {
+  border: none !important;   /* Remove border */
+  outline: none !important;  /* Remove outline */
+  box-shadow: none !important; /* Remove focus shadow */
+  padding: 5px; /* Optional: Adjust padding */
+  background-color: transparent !important; /* Remove background color */
+}
+.social-link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 48px;  /* Circle size */
+  height: 48px; /* Circle size */
+  background-color: #e21111; /* Change background color */
+  border-radius: 50%; /* Makes it a perfect circle */
+}
+.social-link:nth-child(1){
+  background-color: #728CF7;
+}
+.social-link:nth-child(2){
+  background-color: #E17094;
+}
+.social-link:nth-child(3){
+  background-color: #68AAF3;
+}
+.social-link:nth-child(4){
+  background-color: #FF9B70;
+}
+.fllow p{
+  margin: 0;
+}
+
+.section-1{
+  margin-top: 50px;
+}
+.section-1 h2{
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 62px;
+  margin-top: 22px;
+  color: #222222;
+}
+.section-1 p{
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 30px;
+  color: #222222;
+  margin-top: 22px;
+  
+}
+.fllow{
+  margin-top: 22px;
+}
+.flm{
+  color: rgba(34, 34, 34, 0.52);
+
+}
+.button-two{
+  margin-top: 32px;
+}
+.frst-btn {
+  border: none; /* Remove border */
+  box-shadow: none; /* Remove box shadow */
+  background-color: #FF2950;
+  color: white;
+}
+
+.frst-btn:hover {
+  border: none; /* Remove hover border */
+  box-shadow: none; /* Remove hover box shadow */
+  background-color: #FF2950; /* Optionally, keep the background color on hover */
+  color: white;
+}
+.scd-btn {
+  border: 2px solid #FF9B70; /* Remove border */
+  box-shadow: none; /* Remove box shadow */
+  background-color: none;
+  color: rgba(34, 34, 34, 0.52);
+}
+
+.scd-btn:hover {
+  border: 2px solid #FF9B70; /* Remove border */
+  box-shadow: none; /* Remove box shadow */
+  background-color: transparent !important;
+  color: rgba(34, 34, 34, 0.52);
+}
+
+
+
+
+
+
+
+
+
