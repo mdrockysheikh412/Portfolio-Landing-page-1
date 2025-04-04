@@ -15,6 +15,10 @@
     .navbar-brand{
         color: white;
       }
+      .section-2{
+        width: 100%;
+        
+      }
     
 }
 @media only screen and (min-width: 575px) and (max-width: 991px){
@@ -33,6 +37,10 @@
     .navbar-brand{
         color: white;
       }
+      .section-2{
+        width: 100%;
+        
+      }
 }
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 576px) {
@@ -40,10 +48,52 @@
 }
 
 /* Medium devices (landscape tablets, 768px and up) */
-@media only screen and (min-width: 768px) {}
+@media only screen and (min-width: 768px) and (max-width: 991px){
+    
+}
 
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px) {...}
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
 @media only screen and (min-width: 1200px) {...}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* <div class="col-12 col-md-6 Right-side-1  order-1 order-md-2">
+              <div class="row d-flex align-items-end">
+                  <div class="col-12 col-md-6 mb-4 mb-md-0 text-center text-md-start">
+                      <h2>120+</h2>
+                      <p>Completed Projects</p>
+                  </div>
+                  <div class="col-12 col-md-6 mb-4 mb-md-0 text-center">
+                      <img src="image/Rating.png" alt="" class="mb-5">
+                      <p>Positive Review’s</p>
+                  </div>
+              </div>
+              <div class="Right-side-2 mt-5">
+                <h2>Glad to Help You!</h2>
+                <p>As a web developer, I'm very keen on learning <br>
+                    new and pioneering technologies, <br>
+                    programming languages, and development <br>
+                    techniques.
+                </p>
+              </div>
+          </div> */

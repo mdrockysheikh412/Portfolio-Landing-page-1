@@ -101,11 +101,46 @@ body{
   color: rgba(34, 34, 34, 0.52);
 }
 
+/* -- section-1-End -- */
 
 
 
 
 
+/* -- section-2-Start -- */
 
+.section-2{
+  background-color: #FF7315;
+  width: 90%;
+  margin: auto;
+  border-radius: 35px;
+  
+}
+.section-2 p{
+  color: white;
+}
+.section-2 .Right-side-1 h2{
+  font-size: 72px;
+  font-weight: 600;
+  color: white;
+}
+.section-2 .Right-side-1 p{
+  font-size: 24px;
+  font-weight: 400;
+  color: white;
+}
+.section-2 .Right-side-2 h2{
+  font-size: 48px;
+  font-weight: 600;
+  color: white;
+}
+.section-2 .Right-side-2 p{
+  font-size: 24px;
+  font-weight: 400;
+  color: white;
+  line-height: 45px;
+}
+
+/* -- section-2-End -- */
 
 
