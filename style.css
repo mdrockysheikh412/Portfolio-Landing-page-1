@@ -47,7 +47,9 @@ body{
 }
 
 .section-1{
-  margin-top: 50px;
+  margin-top: 50px !important;
+  width: 100%;
+  margin: auto;
 }
 .section-1 h2{
   font-weight: 600;
@@ -111,7 +113,7 @@ body{
 
 .section-2{
   background-color: #FF7315;
-  width: 90%;
+  width: 86%;
   margin: auto;
   border-radius: 35px;
   
@@ -144,3 +146,38 @@ body{
 /* -- section-2-End -- */
 
 
+
+/* ---section-3-Start--- */
+.section-3{
+  
+  width: 90%;
+  margin: auto;
+  
+  
+}
+.section-3 h1{
+  font-size: 48px;
+  font-weight: 600;
+  color: #222222;
+}
+.section-3 .img{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 98px;  /* Circle size */
+  height: 98px; /* Circle size */
+  background-color: #2222221A; /* Change background color */
+  border-radius: 50%; /* Makes it a perfect circle */
+}
+.section-3 h4{
+  font-size: 24px;
+  font-weight: 500;
+
+}
+.section-3 p{
+  color: rgba(34, 34, 34, 0.52);
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 30px;
+}
+/* ---section-3-End--- */
