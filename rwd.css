@@ -1,4 +1,51 @@
 /* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 375px){
+
+  /* section-5 */
+
+      .Clients-Worldwide .card-text{
+        font-size: 10px; 
+    }
+    .Clients-Worldwide .margin-top-lft{
+      margin-top: 0px;
+    }
+    .c-details span {
+        font-size: 14px
+      }
+      .c-details h6{
+        font-size: 14px;
+        line-height: 10px;
+      }
+      .badge img{
+        width: 125px;
+        margin: 20px 0;
+      }
+      
+    
+}
+@media only screen and (min-width: 376px) and (max-width: 575px){
+  
+  /* section-5 */
+      .Clients-Worldwide .card-text{
+        font-size: 15px; 
+    }
+    .Clients-Worldwide .margin-top-lft{
+      margin-top: 0px;
+    }
+    .c-details span {
+        font-size: 14px
+      }
+      .c-details h6{
+        font-size: 14px;
+        line-height: 10px;
+      }
+      .badge img{
+        width: 125px;
+        margin: 20px 0;
+      }
+      
+    
+}
 @media only screen and (max-width: 575px) {
     .social-icons {
         width: 100%;
@@ -19,6 +66,9 @@
         width: 100%;
         
       }
+
+  
+      
     
 }
 @media only screen and (min-width: 575px) and (max-width: 991px){
@@ -41,6 +91,27 @@
         width: 100%;
         
       }
+      
+}
+@media only screen and (min-width: 576px) and (max-width: 767px){
+  /* section-5 */
+  .Clients-Worldwide .card-text{
+    font-size: 20px; 
+}
+.Clients-Worldwide .margin-top-lft{
+  margin-top: 65px;
+}
+.c-details span {
+    font-size: 12px
+  }
+  .c-details h6{
+    font-size: 12px;
+    line-height: 0%;
+  }
+  .badge img{
+    width: 65px;
+  }
+      
 }
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 576px) {
@@ -49,7 +120,42 @@
 
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) and (max-width: 991px){
-    
+  /* section-5 */
+  .Clients-Worldwide .card-text{
+    font-size: 12px; 
+}
+.Clients-Worldwide .margin-top-lft{
+  margin-top: 65px;
+}
+.c-details span {
+    font-size: 8px
+  }
+  .c-details h6{
+    font-size: 8px;
+    line-height: 0%;
+  }
+  .badge img{
+    width: 65px;
+  }
+}
+@media only screen and (min-width: 992px) and (max-width: 1200px){
+  /* section-5 */
+    .Clients-Worldwide .card-text{
+        font-size: 15px; 
+    }
+    .Clients-Worldwide .margin-top-lft{
+      margin-top: 70px;
+    }
+    .c-details span {
+        font-size: 8px
+      }
+      .c-details h6{
+        font-size: 8px;
+        line-height: 0%;
+      }
+      .badge img{
+        width: 65px;
+      }
 }
 
 /* Large devices (laptops/desktops, 992px and up) */

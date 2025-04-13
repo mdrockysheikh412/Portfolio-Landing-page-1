@@ -201,3 +201,55 @@ body{
   width: 95%;
   margin: auto;
 }
+/* ---section-4-End--- */
+
+
+
+
+/* ---section-5-Start--- */
+.Clients-Worldwide p{
+  font-size: 24px;
+  font-weight: 400;
+}
+.container-fluid{
+  width: 75%;
+}
+.card {
+  border: none;
+  border-radius: 30px
+}
+
+.c-details span {
+  font-weight: 400;
+  font-size: 14px
+}
+.c-details h6{
+  font-weight: 600;
+  font-size: 16px
+}
+.badge span{
+ color: black;
+}
+
+
+
+
+
+.carousel-inner{
+  background-color: #FF7315;
+  padding: 200px 0;
+}
+.container-fluid h2{
+  font-weight: 600;
+  font-size: 48px;
+  color: white;
+}
+.Clients-Worldwide .margin-top-lft{
+  margin-top: 85px;
+}
+.Clients-Worldwide .margin-top-rft{
+  margin-top: 50px;
+}
+
+
+/* ---section-5-End--- */
