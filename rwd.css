@@ -67,6 +67,14 @@
         
       }
 
+        /* section-6 */
+    .pricing-table .col-md-6:nth-child(2){
+      margin-top: 60px;
+    }
+    .pricing-table .col-md-6:nth-child(3){
+      margin-top: 60px;
+    }
+
   
       
     
@@ -111,6 +119,14 @@
   .badge img{
     width: 65px;
   }
+
+  /* section-6 */
+ .pricing-table .col-md-6:nth-child(2){
+  margin-top: 60px;
+ }
+ .pricing-table .col-md-6:nth-child(3){
+  margin-top: 60px;
+ }
       
 }
 /* Small devices (portrait tablets and large phones, 600px and up) */
@@ -137,6 +153,12 @@
   .badge img{
     width: 65px;
   }
+
+ /* section-6 */
+ .pricing-table .col-md-6:nth-child(3){
+  margin-top: 60px;
+ }
+
 }
 @media only screen and (min-width: 992px) and (max-width: 1200px){
   /* section-5 */
