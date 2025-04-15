@@ -434,15 +434,71 @@ ul {
 
 
 /* section-7-Start */
-
+.working-with-me .card{
+  background-color: #FF7315;
+  width: 85%;
+  margin: auto;
+}
+.working-with-me .card p{
+  font-size: 36px;
+  font-weight: 600;
+  color: white;
+}
+.working-with-me .card .btn{
+  font-size: 24px;
+  font-weight: 600;
+  color: #222222;
+  background-color: white;
+  padding: 10px 60px !important;
+}
 /* section-7-End */
 
 
 
+/* section-8*-Start */
+.blog{
+  padding-top: 150px;
+}
+.blog h4{
+  font-size: 48px;
+  font-weight: 600;
+}
+.blog h5{
+  font-size: 16px;
+}
+.blog p{
+  font-size: 12px;
+  color: rgba(34, 34, 34, 0.52);
+}
+.blog a{
+  color: rgba(34, 34, 34, 0.52);
+  font-size: 20px;
+  font-weight: 400;
+}
+.blog .card{
+  padding: 15px;
+  border-radius: 20px;
+}
+.blog .card-body{
+  padding: 0 !important;
+}
+.blog .btn{
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  border: none;
+  background: none;
+  border-radius: 50px;
+}
+.blog .row{
+  padding-top: 50px;
+  padding-bottom: 120px;
+}
+/* section-8*-End */
 
-
-
-
+footer{
+  background-color: #F1F1F1;
+  padding-top: 80px;
+  padding-bottom: 60px;
+}
 
 
 

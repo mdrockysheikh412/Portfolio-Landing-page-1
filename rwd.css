@@ -75,7 +75,34 @@
       margin-top: 60px;
     }
 
-  
+        /* section-7 */
+    .working-with-me .card .btn{
+      margin-top: 50px;
+    }
+
+    .working-with-me .card{
+      width: 100%;
+    }
+    /* section-8 */
+  .blog .k-1:nth-child(2){
+    margin-top: 50px;
+  }
+  .blog .k-1:nth-child(3){
+    margin-top: 50px;
+  }
+  .blog .k-1:nth-child(4){
+    margin-top: 50px;
+  }
+
+  /* footer */
+  footer .sm-center{
+    display: flex;
+    justify-content: center;
+    
+  }
+  footer .sm-margin{
+    margin-top: 50px;
+  }
       
     
 }
@@ -127,12 +154,41 @@
  .pricing-table .col-md-6:nth-child(3){
   margin-top: 60px;
  }
+
+     /* section-7 */
+.working-with-me .card .btn{
+  margin-top: 50px;
+}
+
+/* section-8 */
+.blog .k-1:nth-child(2){
+  margin-top: 50px;
+}
+ .blog .k-1:nth-child(3){
+  margin-top: 50px;
+}
+ .blog .k-1:nth-child(4){
+  margin-top: 50px;
+}
+
+  /* footer */
+  footer .sm-center{
+    display: flex;
+    justify-content: center;
+    
+  }
+  footer .sm-margin{
+    margin-top: 50px;
+  }
       
 }
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 576px) {
     
 }
+
+
+
 
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) and (max-width: 991px){
@@ -158,6 +214,14 @@
  .pricing-table .col-md-6:nth-child(3){
   margin-top: 60px;
  }
+
+/* section-8 */
+ .blog .k-1:nth-child(3){
+  margin-top: 50px;
+}
+ .blog .k-1:nth-child(4){
+  margin-top: 50px;
+}
 
 }
 @media only screen and (min-width: 992px) and (max-width: 1200px){
@@ -205,23 +269,3 @@
 
 
 
-/* <div class="col-12 col-md-6 Right-side-1  order-1 order-md-2">
-              <div class="row d-flex align-items-end">
-                  <div class="col-12 col-md-6 mb-4 mb-md-0 text-center text-md-start">
-                      <h2>120+</h2>
-                      <p>Completed Projects</p>
-                  </div>
-                  <div class="col-12 col-md-6 mb-4 mb-md-0 text-center">
-                      <img src="image/Rating.png" alt="" class="mb-5">
-                      <p>Positive Review’s</p>
-                  </div>
-              </div>
-              <div class="Right-side-2 mt-5">
-                <h2>Glad to Help You!</h2>
-                <p>As a web developer, I'm very keen on learning <br>
-                    new and pioneering technologies, <br>
-                    programming languages, and development <br>
-                    techniques.
-                </p>
-              </div>
-          </div> */
